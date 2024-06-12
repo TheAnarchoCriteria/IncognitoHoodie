@@ -1,7 +1,7 @@
 const resources_ca = {
   pageTitle: "Manifesto",
   logoAlt: "Logotip de la marca",
-  productName: "Faldilla amb secrets",
+  productName: "Incognito Hoodie",
   imageAlt: "Foto de l'article",
   menuItems: [
     "Codi del producte",

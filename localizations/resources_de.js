@@ -1,7 +1,7 @@
 const resources_de = {
   pageTitle: "Manifesto",
   logoAlt: "Logo der Marke",
-  productName: "Rock mit Geheimnissen",
+  productName: "Incognito Hoodie",
   imageAlt: "Foto des Artikels",
   menuItems: [
     "Produktcode",
